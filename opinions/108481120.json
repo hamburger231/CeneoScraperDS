@@ -1,0 +1,354 @@
+[
+    {
+        "opinion_id": "16104222",
+        "author": "h...k",
+        "recommendation": true,
+        "stars": 0.8,
+        "content": "It's fast, good and wireless, that's the most important thing.",
+        "pros": [
+            "quality of prints",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2022-05-19 13:49:25",
+        "purchase_date": "2022-05-03 11:01:04"
+    },
+    {
+        "opinion_id": "16040223",
+        "author": "m...a",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "I'm happy",
+        "pros": [
+            "quality of prints",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 2,
+        "unhelpful": 1,
+        "publish_date": "2022-05-04 13:06:04",
+        "purchase_date": "2022-05-03 15:30:37"
+    },
+    {
+        "opinion_id": "16240881",
+        "author": "b...6",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "A quality printer suitable for printing documents or scanning. The advantage is seamless connection with any device - any phone or computer. Previously, I also had an HP inkjet printer and if it weren't for the damaged connection socket, it would still work after 10 years without failure. Cheap inks and available refills. If it dries, steam is enough. I definitely recommend HP - I also used Canon occasionally and would not buy a device from this company.",
+        "pros": [
+            "quality of prints",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2022-06-22 22:03:07",
+        "purchase_date": "2022-06-04 08:50:23"
+    },
+    {
+        "opinion_id": "16990148",
+        "author": "m...7",
+        "recommendation": true,
+        "stars": 0.8,
+        "content": "Fast equipment service, disadvantage: no offline printing option, good printer for home use.",
+        "pros": [
+            "quality of prints",
+            "print speed",
+            "efficiency",
+            "takes up little space"
+        ],
+        "cons": [],
+        "helpful": 2,
+        "unhelpful": 0,
+        "publish_date": "2023-01-08 20:24:43",
+        "purchase_date": "2022-12-31 22:15:45"
+    },
+    {
+        "opinion_id": "16395595",
+        "author": "m...n",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "I have been using it for a few days, easy to use, good printing, convenient printing from any device",
+        "pros": [
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2022-08-06 19:00:10",
+        "purchase_date": "2022-08-02 12:41:42"
+    },
+    {
+        "opinion_id": "17499431",
+        "author": "j...3",
+        "recommendation": true,
+        "stars": 0.8,
+        "content": "the printer is great, but there are no instructions in Polish",
+        "pros": [],
+        "cons": [],
+        "helpful": 2,
+        "unhelpful": 0,
+        "publish_date": "2023-05-12 07:14:06",
+        "purchase_date": "2023-04-21 07:46:50"
+    },
+    {
+        "opinion_id": "17201963",
+        "author": "m...a",
+        "recommendation": true,
+        "stars": 0.9,
+        "content": "I recommend it, although the mascara runs out quickly",
+        "pros": [],
+        "cons": [],
+        "helpful": 2,
+        "unhelpful": 0,
+        "publish_date": "2023-02-28 11:01:59",
+        "purchase_date": "2022-10-05 16:00:34"
+    },
+    {
+        "opinion_id": "18085650",
+        "author": "lukaszwozniak659*****",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "Everything works properly, I am satisfied.",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-11-10 09:06:11",
+        "purchase_date": "2023-11-07 08:10:23"
+    },
+    {
+        "opinion_id": "15238563",
+        "author": "m...t",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "Easy to use and inexpensive. It does its job.",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2021-11-22 09:11:36",
+        "purchase_date": "2021-10-21 19:24:21"
+    },
+    {
+        "opinion_id": "16588957",
+        "author": "g...x",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "the goods meet my expectations",
+        "pros": [
+            "quality of prints",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2022-10-03 20:58:18",
+        "purchase_date": "2022-09-21 15:33:54"
+    },
+    {
+        "opinion_id": "18167882",
+        "author": "d...1",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "Very good quality",
+        "pros": [
+            "quality of prints",
+            "print speed",
+            "efficiency",
+            "takes up little space"
+        ],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-12-04 09:06:12",
+        "purchase_date": "2023-11-26 15:30:38"
+    },
+    {
+        "opinion_id": "17857613",
+        "author": "k...3",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "for this price it's great",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-08-31 15:47:31",
+        "purchase_date": "2023-08-13 19:30:38"
+    },
+    {
+        "opinion_id": "15114051",
+        "author": "mateucz777",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "Small, quiet, efficient",
+        "pros": [],
+        "cons": [],
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2021-10-22 12:27:15",
+        "purchase_date": "2021-10-21 14:22:58"
+    },
+    {
+        "opinion_id": "15995614",
+        "author": "t...a",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "Everything is OK.",
+        "pros": [
+            "quality of prints",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-04-22 11:48:00",
+        "purchase_date": "2022-04-21 17:01:19"
+    },
+    {
+        "opinion_id": "18135172",
+        "author": "d...k",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "It's ok, I recommend it",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-11-24 10:51:35",
+        "purchase_date": "2023-11-21 19:25:20"
+    },
+    {
+        "opinion_id": "17345813",
+        "author": "k...4",
+        "recommendation": true,
+        "stars": 0.9,
+        "content": "Print nicely",
+        "pros": [
+            "working volume",
+            "quality of prints",
+            "print quality",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [
+            "takes up little space"
+        ],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-03-31 11:34:27",
+        "purchase_date": "2023-03-30 12:00:38"
+    },
+    {
+        "opinion_id": "16744129",
+        "author": "m...i",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "It's ok",
+        "pros": [
+            "quality of prints",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-11-14 17:29:00",
+        "purchase_date": "2022-11-02 07:47:29"
+    },
+    {
+        "opinion_id": "15194343",
+        "author": "r...i",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "I recommend",
+        "pros": [
+            "quality of prints",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2021-11-11 20:33:08",
+        "purchase_date": "2021-10-29 11:52:22"
+    },
+    {
+        "opinion_id": "17580101",
+        "author": "j...4",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "cool",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-06-04 23:09:00",
+        "purchase_date": "2023-05-11 11:23:30"
+    },
+    {
+        "opinion_id": "16670806",
+        "author": "t...4",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "cool",
+        "pros": [
+            "quality of prints",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-10-24 22:04:43",
+        "purchase_date": "2022-10-07 16:30:34"
+    },
+    {
+        "opinion_id": "18444263",
+        "author": "s...i",
+        "recommendation": true,
+        "stars": 1.0,
+        "content": "Approx",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-02-28 09:48:52",
+        "purchase_date": "2024-02-13 20:45:22"
+    },
+    {
+        "opinion_id": "15791401",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "stars": 0.7,
+        "content": "2 cartridges is almost the price of the device",
+        "pros": [],
+        "cons": [],
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2022-03-08 00:28:02",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "17271245",
+        "author": "r...0",
+        "recommendation": false,
+        "stars": 0.4,
+        "content": "PRINTER IS GOOD, BUT ADDITIONAL INK IS NOT FOR THIS PRINTER/ fraud!!!/",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-03-15 13:40:51",
+        "purchase_date": "2023-02-22 15:20:38"
+    }
+]
